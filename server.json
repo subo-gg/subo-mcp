@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "gg.subo/subo",
+  "name": "gg.subo/survey-bot",
   "title": "Subo",
   "description": "Run Discord forms, surveys, polls and quizzes from your AI app: build, launch and analyze projects.",
   "version": "1.0.0",

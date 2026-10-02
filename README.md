@@ -12,7 +12,7 @@ Subo's infrastructure, so there is nothing to install or host.
 - **Endpoint:** `https://api.subo.ai/mcp` (streamable HTTP)
 - **Auth:** `Authorization: Bearer sbo_live_…`, using a Subo API key
 - **Setup guide:** https://subo.gg/blog/connect-discord-community-to-ai-agent/
-- **Registry name:** `gg.subo/subo` on the official MCP Registry
+- **Registry name:** `gg.subo/survey-bot` on the official MCP Registry
 
 ## What your AI app can do
 
