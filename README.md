@@ -1,10 +1,10 @@
 # Subo MCP server
 
-Run your Discord community's surveys and polls by asking your AI app. Describe what you want to
+Run your Discord community's forms, surveys, polls and quizzes by asking your AI app. Describe what you want to
 ask your members, and your AI app builds the project in Subo, checks the script, and launches it.
 You never open the dashboard.
 
-[Subo](https://subo.gg/) runs conversational surveys and polls natively in Discord and on the
+[Subo](https://subo.gg/) runs conversational surveys, forms, quizzes and polls natively in Discord and on the
 web. MCP (Model Context Protocol) is the open standard AI apps use to connect to outside tools.
 This repository holds the listing for the hosted Subo MCP server. The server itself runs on
 Subo's infrastructure, so there is nothing to install or host.
