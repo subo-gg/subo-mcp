@@ -2,9 +2,14 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "gg.subo/subo",
   "title": "Subo",
-  "description": "Run Discord surveys and polls from your AI app: build, launch and analyze projects in one community.",
+  "description": "Run Discord forms, surveys, polls and quizzes from your AI app: build, launch and analyze projects.",
   "version": "1.0.0",
   "websiteUrl": "https://subo.gg/blog/connect-discord-community-to-ai-agent/",
+  "repository": {
+    "url": "https://github.com/subo-gg/subo-mcp",
+    "source": "github",
+    "id": "1400875062"
+  },
   "remotes": [
     {
       "type": "streamable-http",
